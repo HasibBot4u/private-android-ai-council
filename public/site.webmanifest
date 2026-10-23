@@ -1,0 +1,22 @@
+{
+  "name": "RoundTable",
+  "short_name": "RoundTable",
+  "description": "Ask a panel of AI models one question and get an answer-first brief",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#111214",
+  "background_color": "#111214",
+  "display": "standalone"
+}
